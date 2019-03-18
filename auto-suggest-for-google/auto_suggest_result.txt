@@ -1,0 +1,52 @@
+hello:
+	hello
+	hello google
+	hello hello
+	hello guru prema kosame
+	hello app
+	hello movie
+	hello brother
+	hello how are you
+	hello google kaise ho
+	hello sir
+
+
+boston:
+	boston
+	boston time
+	boston consulting group
+	boston weather
+	boston university
+	boston marathon
+	boston celtics
+	boston scientific
+	boston temperature
+	boston legal
+
+
+philly:
+	philly
+	philly steak
+	philly weather
+	philly cheesesteak
+	philly eagles
+	philly time
+	philly cheese
+	philly home show
+	philly shell
+	philly 76ers
+
+
+maxwell:
+	maxwell ipl 2019
+	maxwell
+	maxwell equation
+	maxwell ipl team
+	maxwell ipl
+	maxwell bridge
+	maxwell scientist
+	maxwell school
+	maxwell photos
+	maxwell public school
+
+
